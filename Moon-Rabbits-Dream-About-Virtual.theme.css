@@ -33,7 +33,7 @@
 /* Pop Effect */
 @import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
 
-/* Reverse the position of Server list and members */
+ Reverse the position of Server list and members 
 @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/reverse.css');
 
 /*------------------------------------------------------
@@ -41,7 +41,7 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "TSUKINO MITO";
+    --custom-text: "";
 
     /* General Colors */
     --border-color: #da4a60;
